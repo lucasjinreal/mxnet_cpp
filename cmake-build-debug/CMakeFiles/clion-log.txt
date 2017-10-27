@@ -1,0 +1,4 @@
+/Volumes/xs/MacApps/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Volumes/xs/CodeSpace/ng/ai/frameworks/mxnet_space/mxnet_cpp_test
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Volumes/xs/CodeSpace/ng/ai/frameworks/mxnet_space/mxnet_cpp_test/cmake-build-debug
